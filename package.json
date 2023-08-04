@@ -1,0 +1,16 @@
+{
+    "name": "tionlab_signupmongodb",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.17.1",
+        "mongoose": "^5.13.7"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}
